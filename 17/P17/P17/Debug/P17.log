@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\leetcode-cracker\17\p17\p17\main.cpp(73): warning C4018: “<=”: 有符号/无符号不匹配
+d:\leetcode-cracker\17\p17\p17\main.cpp(136): warning C4018: “<”: 有符号/无符号不匹配
+  P17.vcxproj -> D:\Leetcode-Cracker\17\P17\Debug\P17.exe
